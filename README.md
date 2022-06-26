@@ -39,4 +39,5 @@ Automatically graph airline data, in particular incoming arrivals, one month at 
 # Possible Additions
 * Automate the data wrangling. Should only take 1 input, which is the target website for excel source. (might not even need that if dynamic url is predictable)
 * Create text prompt upon running, that asks for a name of the output file, or dynamically creates the name based on the month
-
+* Add departing airline seats
+* Add top 25 busiest hours list (dates + hours when most airline passengers are expected to arrive), or busiest 3 hour period, etc.
