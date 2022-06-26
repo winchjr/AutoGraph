@@ -1,6 +1,6 @@
 # AutoGraph
 # Purpose
-Automatically graph airline data, in particular incoming arrivals, one month at a time. See example.png in this repo for a demo of what the output looks like.
+Automatically graph airline data, in particular incoming arrivals, one month at a time. See x.png in this repo for a demo of what the output looks like.
 
 # Inputs
 * csv file path location
